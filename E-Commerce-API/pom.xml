@@ -97,6 +97,8 @@
 			<optional>true</optional>
 		</dependency>
 		
+		<!-- https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind -->
+		
 	</dependencies>
 
 	<build>
